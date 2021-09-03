@@ -20,7 +20,7 @@ Jupyter Notebook module - constants.ipynb
 
 
 
-![image-20210902233516333](Images/transation1 half eth.png)
+![](Images/transation1 half eth.png)
 
 
 
