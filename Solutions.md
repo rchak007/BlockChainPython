@@ -20,19 +20,18 @@ Jupyter Notebook module - constants.ipynb
 
 
 
-![](Images/transation1 half eth.png)
-
 
 
 Jupyter code for transaction execution; 
 
-![image-20210902233713808](Images/ganache result after transaction.png)
+![jupyter_transaction](Images/jupyter_transaction.png)
 
 
 
 
 
+![Ganache_transaction](Images/Ganache_transaction.png)
 
 
-![image-20210902234507015](Images/Ganache Accounts results.png)
 
+![image-20210903000219780](Images/GanacheResults.png)
