@@ -1,4 +1,4 @@
-## Summary
+# Implemented Python Web3 & BIT transactions, reading Nmemonics, private key & Used Ganache, BlockChain explorer
 
 - Connected to Ganache local port using Web3
 
@@ -98,9 +98,13 @@ We use wif_to_key to get the BTC address from private key
 
 
 
+### Viewing Bit transaction on BlochChainExplorer
+
+https://www.blockchain.com/btc-testnet/address/msjBhgXeXbPU2XX1JU64s8LRPGUG5M9hMA
 
 
 
+![image-20211113111331140](Images/BlockChainExplorerTxn.png)
 
 
 
